@@ -1,2 +1,6 @@
-# calculadora criada atráves de estudos de JS. https://rebecaklopes.github.io/calculadora/
+## calculadora criada atráves de estudos de JS. <br>
+
+https://rebecaklopes.github.io/calculadora/
+
+
  
